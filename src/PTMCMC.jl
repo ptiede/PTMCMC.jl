@@ -1,5 +1,17 @@
 module PTMCMC
+using AbstractMCMC
+using Distributions
+using Requires
 
-# Write your package code here.
+import Random
+
+# Abstract type for PT-style samplers
+
+
+
+
+
+
+
 
 end
